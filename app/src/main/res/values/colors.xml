@@ -1,0 +1,14 @@
+<resources>
+    <color name="menu_bg">#E0F7FA</color>          <!-- light blue background -->
+    <color name="menu_card">#FFFFFF</color>
+
+    <color name="menu_title">#1F2937</color>       <!-- dark gray -->
+    <color name="menu_desc">#6B7280</color>        <!-- muted gray -->
+    <color name="menu_price">#DC2626</color>       <!-- red price -->
+
+    <color name="accent_burger">#F97316</color>    <!-- orange -->
+    <color name="accent_pizza">#EAB308</color>     <!-- yellow -->
+    <color name="accent_fries">#F59E0B</color>     <!-- amber -->
+    <color name="accent_chicken">#F43F5E</color>   <!-- pink/red -->
+    <color name="accent_spaghetti">#8B5CF6</color> <!-- purple -->
+</resources>
